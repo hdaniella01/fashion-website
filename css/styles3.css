@@ -1,0 +1,25 @@
+body {
+    background-color: lightpink;
+}
+
+img {
+    height: px;
+    width: 160px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+
+}
+
+button {
+    background-color: whitesmoke;
+    color: blue;
+    border-radius: 5px;
+}
+
+h4 {
+    text-align: none;
+
+}
